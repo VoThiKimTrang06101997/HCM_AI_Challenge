@@ -7,6 +7,7 @@ import numpy as np
 import os
 import sys
 import csv
+import pandas as pd
 
 # Add root directory to Python path
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../'))
@@ -37,6 +38,8 @@ class QueryController:
         self.model_service = model_service
         self.keyframe_service = keyframe_service
         self.output_dir = Path(r"D:\AI Viet Nam\AI_Challenge\Result")
+        self.map_keyframes_dir = Path(
+            r"D:\AI Viet Nam\AI_Challenge\Dataset\map-keyframes")  # Add map-keyframes path
         # Ensure output directory exists
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -53,22 +56,60 @@ class QueryController:
                 return path, model.confidence_score
         return os.path.join("static", "path_not_found.jpg"), model.confidence_score
 
-    def _format_to_csv_row(self, item: Union[KeyframeServiceResponse, Tuple]) -> Tuple[str, int]:
+    def _format_to_csv_row(self, item: Union[KeyframeServiceResponse, Tuple]) -> Tuple[str, int, int]:
         if isinstance(item, KeyframeServiceResponse):
             path, score = self.convert_model_to_path(item)
             video_id = f"L{item.group_num:02d}_V{item.video_num:03d}"
-            frame_idx = item.keyframe_num
-            return video_id, frame_idx
+            keyframe_num = item.keyframe_num
+            # Load frame_idx from map-keyframes with exact match using keyframe_num
+            map_file = self.map_keyframes_dir / f"{video_id}.csv"
+            if map_file.exists():
+                df = pd.read_csv(map_file)
+                # Sort by n to ensure correct order and filter exact match
+                df = df.sort_values(by='n')
+                match = df[df['n'] == keyframe_num]
+                if not match.empty:
+                    frame_idx = int(match['frame_idx'].iloc[0])
+                    logger.debug(
+                        f"Matched {video_id} keyframe_num {keyframe_num} to frame_idx {frame_idx}")
+                else:
+                    logger.warning(
+                        f"No exact match found for {video_id} keyframe_num {keyframe_num} in {map_file}")
+                    frame_idx = 0  # Fallback if no match
+            else:
+                logger.warning(
+                    f"Map file {map_file} not found, using frame_idx 0")
+                frame_idx = 0  # Fallback if map file not found
+            return video_id, keyframe_num, frame_idx
         elif isinstance(item, tuple) and len(item) == 2:
             path, score = item
-            # Derive video_id and frame_idx from path if possible
+            # Derive video_id and keyframe_num from path if possible
             for key, value in self.id2index.items():
                 if str(path).find(f"L{value.split('/')[0]:02d}_V{value.split('/')[1]:03d}") != -1:
-                    group_num, video_num, frame_idx = map(
+                    group_num, video_num, keyframe_num = map(
                         int, value.split('/'))
                     video_id = f"L{group_num:02d}_V{video_num:03d}"
-                    return video_id, frame_idx
-        return "Unknown", 0
+                    # Load frame_idx from map-keyframes with exact match using keyframe_num
+                    map_file = self.map_keyframes_dir / f"{video_id}.csv"
+                    if map_file.exists():
+                        df = pd.read_csv(map_file)
+                        # Sort by n to ensure correct order and filter exact match
+                        df = df.sort_values(by='n')
+                        match = df[df['n'] == keyframe_num]
+                        if not match.empty:
+                            frame_idx = int(match['frame_idx'].iloc[0])
+                            logger.debug(
+                                f"Matched {video_id} keyframe_num {keyframe_num} to frame_idx {frame_idx}")
+                        else:
+                            logger.warning(
+                                f"No exact match found for {video_id} keyframe_num {keyframe_num} in {map_file}")
+                            frame_idx = 0  # Fallback if no match
+                    else:
+                        logger.warning(
+                            f"Map file {map_file} not found, using frame_idx 0")
+                        frame_idx = 0  # Fallback if map file not found
+                    return video_id, keyframe_num, frame_idx
+        return "Unknown", 0, 0
 
     async def search_text(
         self,
@@ -81,13 +122,15 @@ class QueryController:
 
         # Convert to CSV with limit of 100
         output_file = self.output_dir / \
-            f"search_text_{query.replace(' ', '_')[:75]}_{top_k}_{score_threshold}.csv"
+            f"search_text_exclude_{query.replace(' ', '_')[:75]}_{top_k}_{score_threshold}.csv"
         with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
-            writer.writerow(["video_id", "frame_idx"])  # Header
+            # Updated header
+            writer.writerow(["video_id", "keyframe_num", "frame_idx"])
             for idx, item in enumerate(result[:100]):  # Limit to 100
-                video_id, frame_idx = self._format_to_csv_row(item)
-                writer.writerow([video_id, frame_idx])
+                video_id, keyframe_num, frame_idx = self._format_to_csv_row(
+                    item)
+                writer.writerow([video_id, keyframe_num, frame_idx])
         logger.info(f"Saved {min(100, len(result))} results to {output_file}")
         return result
 
@@ -109,13 +152,15 @@ class QueryController:
 
         # Convert to CSV with limit of 100
         output_file = self.output_dir / \
-            f"search_text_exclude_{query.replace(' ', '_')[:75]}_{top_k}_{score_threshold}.csv"
+            f"search_selected_{query.replace(' ', '_')[:75]}_{top_k}_{score_threshold}.csv"
         with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
-            writer.writerow(["video_id", "frame_idx"])
+            # Updated header
+            writer.writerow(["video_id", "keyframe_num", "frame_idx"])
             for idx, item in enumerate(result[:100]):  # Limit to 100
-                video_id, frame_idx = self._format_to_csv_row(item)
-                writer.writerow([video_id, frame_idx])
+                video_id, keyframe_num, frame_idx = self._format_to_csv_row(
+                    item)
+                writer.writerow([video_id, keyframe_num, frame_idx])
         logger.info(f"Saved {min(100, len(result))} results to {output_file}")
         return result
 
@@ -162,9 +207,11 @@ class QueryController:
             f"search_selected_{query.replace(' ', '_')[:75]}_{top_k}_{score_threshold}.csv"
         with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
-            writer.writerow(["video_id", "frame_idx"])
+            # Updated header
+            writer.writerow(["video_id", "keyframe_num", "frame_idx"])
             for idx, item in enumerate(result[:100]):  # Limit to 100
-                video_id, frame_idx = self._format_to_csv_row(item)
-                writer.writerow([video_id, frame_idx])
+                video_id, keyframe_num, frame_idx = self._format_to_csv_row(
+                    item)
+                writer.writerow([video_id, keyframe_num, frame_idx])
         logger.info(f"Saved {min(100, len(result))} results to {output_file}")
         return result
