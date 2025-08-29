@@ -1,0 +1,2662 @@
+[
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generic",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "LLM",
+        "importPath": "llama_index.core.llms",
+        "description": "llama_index.core.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessage",
+        "importPath": "llama_index.core.llms",
+        "description": "llama_index.core.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms",
+        "documentation": {}
+    },
+    {
+        "label": "ImageBlock",
+        "importPath": "llama_index.core.llms",
+        "description": "llama_index.core.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms",
+        "documentation": {}
+    },
+    {
+        "label": "TextBlock",
+        "importPath": "llama_index.core.llms",
+        "description": "llama_index.core.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms",
+        "documentation": {}
+    },
+    {
+        "label": "MessageRole",
+        "importPath": "llama_index.core.llms",
+        "description": "llama_index.core.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms",
+        "documentation": {}
+    },
+    {
+        "label": "LLM",
+        "importPath": "llama_index.core.llms",
+        "description": "llama_index.core.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms",
+        "documentation": {}
+    },
+    {
+        "label": "LLM",
+        "importPath": "llama_index.core.llms",
+        "description": "llama_index.core.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms",
+        "documentation": {}
+    },
+    {
+        "label": "LLM",
+        "importPath": "llama_index.core.llms",
+        "description": "llama_index.core.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.core.llms",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "llama_index.core",
+        "description": "llama_index.core",
+        "isExtraImport": true,
+        "detail": "llama_index.core",
+        "documentation": {}
+    },
+    {
+        "label": "AgentResponse",
+        "importPath": "schema.agent",
+        "description": "schema.agent",
+        "isExtraImport": true,
+        "detail": "schema.agent",
+        "documentation": {}
+    },
+    {
+        "label": "AgentQueryRequest",
+        "importPath": "schema.agent",
+        "description": "schema.agent",
+        "isExtraImport": true,
+        "detail": "schema.agent",
+        "documentation": {}
+    },
+    {
+        "label": "AgentQueryResponse",
+        "importPath": "schema.agent",
+        "description": "schema.agent",
+        "isExtraImport": true,
+        "detail": "schema.agent",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeServiceResponse",
+        "importPath": "schema.response",
+        "description": "schema.response",
+        "isExtraImport": true,
+        "detail": "schema.response",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeServiceResponse",
+        "importPath": "schema.response",
+        "description": "schema.response",
+        "isExtraImport": true,
+        "detail": "schema.response",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeServiceResponse",
+        "importPath": "schema.response",
+        "description": "schema.response",
+        "isExtraImport": true,
+        "detail": "schema.response",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeServiceResponse",
+        "importPath": "schema.response",
+        "description": "schema.response",
+        "isExtraImport": true,
+        "detail": "schema.response",
+        "documentation": {}
+    },
+    {
+        "label": "SingleKeyframeDisplay",
+        "importPath": "schema.response",
+        "description": "schema.response",
+        "isExtraImport": true,
+        "detail": "schema.response",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeDisplay",
+        "importPath": "schema.response",
+        "description": "schema.response",
+        "isExtraImport": true,
+        "detail": "schema.response",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeServiceResponse",
+        "importPath": "schema.response",
+        "description": "schema.response",
+        "isExtraImport": true,
+        "detail": "schema.response",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeQueryService",
+        "importPath": "service.search_service",
+        "description": "service.search_service",
+        "isExtraImport": true,
+        "detail": "service.search_service",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeQueryService",
+        "importPath": "service.search_service",
+        "description": "service.search_service",
+        "isExtraImport": true,
+        "detail": "service.search_service",
+        "documentation": {}
+    },
+    {
+        "label": "ModelService",
+        "importPath": "service.model_service",
+        "description": "service.model_service",
+        "isExtraImport": true,
+        "detail": "service.model_service",
+        "documentation": {}
+    },
+    {
+        "label": "ModelService",
+        "importPath": "service.model_service",
+        "description": "service.model_service",
+        "isExtraImport": true,
+        "detail": "service.model_service",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "init_beanie",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "Indexed",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "init_beanie",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "connections",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "Collection",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "connections",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "Collection",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "Collection",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "Collection",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "connections",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "FieldSchema",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "CollectionSchema",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "DataType",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "utility",
+        "importPath": "pymilvus",
+        "description": "pymilvus",
+        "isExtraImport": true,
+        "detail": "pymilvus",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeSearchAgent",
+        "importPath": "agent.main_agent",
+        "description": "agent.main_agent",
+        "isExtraImport": true,
+        "detail": "agent.main_agent",
+        "documentation": {}
+    },
+    {
+        "label": "ModelService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeQueryService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "ModelService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeQueryService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeQueryService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "ModelService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "QueryController",
+        "importPath": "controller.query_controller",
+        "description": "controller.query_controller",
+        "isExtraImport": true,
+        "detail": "controller.query_controller",
+        "documentation": {}
+    },
+    {
+        "label": "QueryController",
+        "importPath": "controller.query_controller",
+        "description": "controller.query_controller",
+        "isExtraImport": true,
+        "detail": "controller.query_controller",
+        "documentation": {}
+    },
+    {
+        "label": "KeyFrameIndexMilvusSetting",
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "isExtraImport": true,
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MongoDBSettings",
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "isExtraImport": true,
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AppSettings",
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "isExtraImport": true,
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MongoDBSettings",
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "isExtraImport": true,
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "KeyFrameIndexMilvusSetting",
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "isExtraImport": true,
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AppSettings",
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "isExtraImport": true,
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceFactory",
+        "importPath": "factory.factory",
+        "description": "factory.factory",
+        "isExtraImport": true,
+        "detail": "factory.factory",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceFactory",
+        "importPath": "factory.factory",
+        "description": "factory.factory",
+        "isExtraImport": true,
+        "detail": "factory.factory",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleLogger",
+        "importPath": "core.logger",
+        "description": "core.logger",
+        "isExtraImport": true,
+        "detail": "core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleLogger",
+        "importPath": "core.logger",
+        "description": "core.logger",
+        "isExtraImport": true,
+        "detail": "core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleLogger",
+        "importPath": "core.logger",
+        "description": "core.logger",
+        "isExtraImport": true,
+        "detail": "core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleLogger",
+        "importPath": "core.logger",
+        "description": "core.logger",
+        "isExtraImport": true,
+        "detail": "core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleLogger",
+        "importPath": "core.logger",
+        "description": "core.logger",
+        "isExtraImport": true,
+        "detail": "core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleGenAI",
+        "importPath": "llama_index.llms.google_genai",
+        "description": "llama_index.llms.google_genai",
+        "isExtraImport": true,
+        "detail": "llama_index.llms.google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "AgentController",
+        "importPath": "controller.agent_controller",
+        "description": "controller.agent_controller",
+        "isExtraImport": true,
+        "detail": "controller.agent_controller",
+        "documentation": {}
+    },
+    {
+        "label": "AgentController",
+        "importPath": "controller.agent_controller",
+        "description": "controller.agent_controller",
+        "isExtraImport": true,
+        "detail": "controller.agent_controller",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIOMotorClient",
+        "importPath": "motor.motor_asyncio",
+        "description": "motor.motor_asyncio",
+        "isExtraImport": true,
+        "detail": "motor.motor_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIOMotorClient",
+        "importPath": "motor.motor_asyncio",
+        "description": "motor.motor_asyncio",
+        "isExtraImport": true,
+        "detail": "motor.motor_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "Keyframe",
+        "importPath": "models.keyframe",
+        "description": "models.keyframe",
+        "isExtraImport": true,
+        "detail": "models.keyframe",
+        "documentation": {}
+    },
+    {
+        "label": "Keyframe",
+        "importPath": "models.keyframe",
+        "description": "models.keyframe",
+        "isExtraImport": true,
+        "detail": "models.keyframe",
+        "documentation": {}
+    },
+    {
+        "label": "Keyframe",
+        "importPath": "models.keyframe",
+        "description": "models.keyframe",
+        "isExtraImport": true,
+        "detail": "models.keyframe",
+        "documentation": {}
+    },
+    {
+        "label": "logging.handlers",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging.handlers",
+        "description": "logging.handlers",
+        "detail": "logging.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeRepository",
+        "importPath": "repository.mongo",
+        "description": "repository.mongo",
+        "isExtraImport": true,
+        "detail": "repository.mongo",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeRepository",
+        "importPath": "repository.mongo",
+        "description": "repository.mongo",
+        "isExtraImport": true,
+        "detail": "repository.mongo",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeVectorRepository",
+        "importPath": "repository.milvus",
+        "description": "repository.milvus",
+        "isExtraImport": true,
+        "detail": "repository.milvus",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeVectorRepository",
+        "importPath": "repository.milvus",
+        "description": "repository.milvus",
+        "isExtraImport": true,
+        "detail": "repository.milvus",
+        "documentation": {}
+    },
+    {
+        "label": "MilvusSearchRequest",
+        "importPath": "repository.milvus",
+        "description": "repository.milvus",
+        "isExtraImport": true,
+        "detail": "repository.milvus",
+        "documentation": {}
+    },
+    {
+        "label": "open_clip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "open_clip",
+        "description": "open_clip",
+        "detail": "open_clip",
+        "documentation": {}
+    },
+    {
+        "label": "create_model_and_transforms",
+        "importPath": "open_clip",
+        "description": "open_clip",
+        "isExtraImport": true,
+        "detail": "open_clip",
+        "documentation": {}
+    },
+    {
+        "label": "get_tokenizer",
+        "importPath": "open_clip",
+        "description": "open_clip",
+        "isExtraImport": true,
+        "detail": "open_clip",
+        "documentation": {}
+    },
+    {
+        "label": "MilvusBaseRepository",
+        "importPath": "common.repository",
+        "description": "common.repository",
+        "isExtraImport": true,
+        "detail": "common.repository",
+        "documentation": {}
+    },
+    {
+        "label": "MongoBaseRepository",
+        "importPath": "common.repository",
+        "description": "common.repository",
+        "isExtraImport": true,
+        "detail": "common.repository",
+        "documentation": {}
+    },
+    {
+        "label": "SearchResult",
+        "importPath": "pymilvus.client.search_result",
+        "description": "pymilvus.client.search_result",
+        "isExtraImport": true,
+        "detail": "pymilvus.client.search_result",
+        "documentation": {}
+    },
+    {
+        "label": "MilvusSearchRequest",
+        "importPath": "schema.interface",
+        "description": "schema.interface",
+        "isExtraImport": true,
+        "detail": "schema.interface",
+        "documentation": {}
+    },
+    {
+        "label": "MilvusSearchResult",
+        "importPath": "schema.interface",
+        "description": "schema.interface",
+        "isExtraImport": true,
+        "detail": "schema.interface",
+        "documentation": {}
+    },
+    {
+        "label": "MilvusSearchResponse",
+        "importPath": "schema.interface",
+        "description": "schema.interface",
+        "isExtraImport": true,
+        "detail": "schema.interface",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeInterface",
+        "importPath": "schema.interface",
+        "description": "schema.interface",
+        "isExtraImport": true,
+        "detail": "schema.interface",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "AppSettings",
+        "importPath": "app.core.settings",
+        "description": "app.core.settings",
+        "isExtraImport": true,
+        "detail": "app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "KeyFrameIndexMilvusSetting",
+        "importPath": "app.core.settings",
+        "description": "app.core.settings",
+        "isExtraImport": true,
+        "detail": "app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "get_agent_controller",
+        "importPath": "core.dependencies",
+        "description": "core.dependencies",
+        "isExtraImport": true,
+        "detail": "core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_query_controller",
+        "importPath": "core.dependencies",
+        "description": "core.dependencies",
+        "isExtraImport": true,
+        "detail": "core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "TextSearchRequest",
+        "importPath": "schema.request",
+        "description": "schema.request",
+        "isExtraImport": true,
+        "detail": "schema.request",
+        "documentation": {}
+    },
+    {
+        "label": "TextSearchWithExcludeGroupsRequest",
+        "importPath": "schema.request",
+        "description": "schema.request",
+        "isExtraImport": true,
+        "detail": "schema.request",
+        "documentation": {}
+    },
+    {
+        "label": "TextSearchWithSelectedGroupsAndVideosRequest",
+        "importPath": "schema.request",
+        "description": "schema.request",
+        "isExtraImport": true,
+        "detail": "schema.request",
+        "documentation": {}
+    },
+    {
+        "label": "Keyframe",
+        "importPath": "app.models.keyframe",
+        "description": "app.models.keyframe",
+        "isExtraImport": true,
+        "detail": "app.models.keyframe",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "keyframe_api",
+        "importPath": "router",
+        "description": "router",
+        "isExtraImport": true,
+        "detail": "router",
+        "documentation": {}
+    },
+    {
+        "label": "agent_api",
+        "importPath": "router",
+        "description": "router",
+        "isExtraImport": true,
+        "detail": "router",
+        "documentation": {}
+    },
+    {
+        "label": "lifespan",
+        "importPath": "core.lifespan",
+        "description": "core.lifespan",
+        "isExtraImport": true,
+        "detail": "core.lifespan",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sysconfig",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sysconfig",
+        "description": "sysconfig",
+        "detail": "sysconfig",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "winreg",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "winreg",
+        "description": "winreg",
+        "detail": "winreg",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "VisualEventExtractor",
+        "kind": 6,
+        "importPath": "app.agent.agent",
+        "description": "app.agent.agent",
+        "peekOfCode": "class VisualEventExtractor:\n    def __init__(self, llm: LLM):\n        self.llm = llm\n        self.extraction_prompt = PromptTemplate(\n            \"\"\"\n            Extract visual elements and events from the following query. \n            Focus on concrete, searchable visual descriptions and actions.\n            COCO: {coco}\n            Query: {query}\n            Please extract the key visual elements, and events/actions within a query. And then rephrase them in a way that it is effective for embedding search. And Optionally, based on the original query, if you think we SHOULD use these COCO objects as the last filter to narrow down the search keyframes and have a better answer for the user questions, then feel free to provide a list!",
+        "detail": "app.agent.agent",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerGenerator",
+        "kind": 6,
+        "importPath": "app.agent.agent",
+        "description": "app.agent.agent",
+        "peekOfCode": "class AnswerGenerator:\n    \"\"\"Generates final answers based on refined keyframes\"\"\"\n    def __init__(self, llm: LLM, data_folder: str):\n        self.data_folder = data_folder\n        self.llm = llm\n        self.answer_prompt = PromptTemplate(\n            \"\"\"\n            Based on the user's query and the relevant keyframes found, generate a comprehensive answer.\n            Original Query and questions: {query}\n            Relevant Keyframes:",
+        "detail": "app.agent.agent",
+        "documentation": {}
+    },
+    {
+        "label": "COCO_CLASS",
+        "kind": 5,
+        "importPath": "app.agent.agent",
+        "description": "app.agent.agent",
+        "peekOfCode": "COCO_CLASS = \"\"\"\nperson\nbicycle\ncar\nmotorcycle\nairplane\nbus\ntrain\ntruck\nboat",
+        "detail": "app.agent.agent",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeSearchAgent",
+        "kind": 6,
+        "importPath": "app.agent.main_agent",
+        "description": "app.agent.main_agent",
+        "peekOfCode": "class KeyframeSearchAgent:\n    def __init__(\n        self, \n        llm: LLM,\n        keyframe_service: KeyframeQueryService,\n        model_service: ModelService,\n        data_folder: str,\n        objects_data: dict[str, list[str]],\n        asr_data: dict[str, str | list[dict[str,str]]],\n        top_k: int = 10",
+        "detail": "app.agent.main_agent",
+        "documentation": {}
+    },
+    {
+        "label": "apply_object_filter",
+        "kind": 2,
+        "importPath": "app.agent.main_agent",
+        "description": "app.agent.main_agent",
+        "peekOfCode": "def apply_object_filter(\n        keyframes: List[KeyframeServiceResponse], \n        objects_data: dict[str, list[str]], \n        target_objects: List[str]\n    ) -> List[KeyframeServiceResponse]:\n        if not target_objects:\n            return keyframes\n        target_objects_set = {obj.lower() for obj in target_objects}\n        filtered_keyframes = []\n        for kf in keyframes:",
+        "detail": "app.agent.main_agent",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "app.agent.main_agent",
+        "description": "app.agent.main_agent",
+        "peekOfCode": "ROOT_DIR = os.path.abspath(\n    os.path.join(\n        os.path.dirname(__file__), '../'\n    )\n)\nsys.path.insert(0, ROOT_DIR)\nfrom typing import List, cast\nfrom llama_index.core.llms import LLM\nfrom .agent import VisualEventExtractor, AnswerGenerator\nfrom service.search_service import KeyframeQueryService",
+        "detail": "app.agent.main_agent",
+        "documentation": {}
+    },
+    {
+        "label": "MongoBaseRepository",
+        "kind": 6,
+        "importPath": "app.common.repository.base",
+        "description": "app.common.repository.base",
+        "peekOfCode": "class MongoBaseRepository(Generic[BeanieDocument]):\n    def __init__(self, collection: Type[BeanieDocument]):\n        self.collection = collection\n    async def find(self, *args, **kwargs) -> list[BeanieDocument]:\n        \"\"\"\n        Find documents in the collection.\n        \"\"\"\n        return await self.collection.find(*args, **kwargs).to_list(length=None)\n    async def find_pipeline(self, pipeline: list[dict[str, Any]]) -> list[BeanieDocument]:\n        \"\"\"",
+        "detail": "app.common.repository.base",
+        "documentation": {}
+    },
+    {
+        "label": "MilvusBaseRepository",
+        "kind": 6,
+        "importPath": "app.common.repository.base",
+        "description": "app.common.repository.base",
+        "peekOfCode": "class MilvusBaseRepository(ABC):\n    def __init__(\n        self,\n        collection: MilvusCollection,\n    ):\n        self.collection = collection",
+        "detail": "app.common.repository.base",
+        "documentation": {}
+    },
+    {
+        "label": "BeanieDocument",
+        "kind": 5,
+        "importPath": "app.common.repository.base",
+        "description": "app.common.repository.base",
+        "peekOfCode": "BeanieDocument = TypeVar('BeanieDocument', bound=Document)\nclass MongoBaseRepository(Generic[BeanieDocument]):\n    def __init__(self, collection: Type[BeanieDocument]):\n        self.collection = collection\n    async def find(self, *args, **kwargs) -> list[BeanieDocument]:\n        \"\"\"\n        Find documents in the collection.\n        \"\"\"\n        return await self.collection.find(*args, **kwargs).to_list(length=None)\n    async def find_pipeline(self, pipeline: list[dict[str, Any]]) -> list[BeanieDocument]:",
+        "detail": "app.common.repository.base",
+        "documentation": {}
+    },
+    {
+        "label": "AgentController",
+        "kind": 6,
+        "importPath": "app.controller.agent_controller",
+        "description": "app.controller.agent_controller",
+        "peekOfCode": "class AgentController:\n    def __init__(\n        self,\n        llm: LLM,\n        keyframe_service: KeyframeQueryService,\n        model_service: ModelService,\n        data_folder: str,\n        objects_data_path: Optional[Path] = None,\n        asr_data_path: Optional[Path] = None,\n        top_k: int = 200",
+        "detail": "app.controller.agent_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "app.controller.agent_controller",
+        "description": "app.controller.agent_controller",
+        "peekOfCode": "ROOT_DIR = os.path.abspath(\n    os.path.join(\n        os.path.dirname(__file__), '../'\n    )\n)\nsys.path.insert(0, ROOT_DIR)\nfrom typing import Dict, List, Optional\nfrom pathlib import Path\nimport json\nfrom agent.main_agent import KeyframeSearchAgent",
+        "detail": "app.controller.agent_controller",
+        "documentation": {}
+    },
+    {
+        "label": "QueryController",
+        "kind": 6,
+        "importPath": "app.controller.query_controller",
+        "description": "app.controller.query_controller",
+        "peekOfCode": "class QueryController:\n    def __init__(\n        self,\n        data_folder: Path,\n        id2index_path: Path,\n        model_service: ModelService,\n        keyframe_service: KeyframeQueryService\n    ):\n        self.data_folder = data_folder\n        self.id2index = json.load(open(id2index_path, 'r'))",
+        "detail": "app.controller.query_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "app.controller.query_controller",
+        "description": "app.controller.query_controller",
+        "peekOfCode": "ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../'))\nsys.path.insert(0, ROOT_DIR)\ntry:\n    from core.logger import SimpleLogger, logger\nexcept ImportError:\n    import logging\n    logging.basicConfig(level=logging.INFO,\n                        format='%(asctime)s | %(levelname)s | %(message)s')\n    logger = logging.getLogger(__name__)\n    SimpleLogger = logging.getLogger",
+        "detail": "app.controller.query_controller",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.controller.query_controller",
+        "description": "app.controller.query_controller",
+        "peekOfCode": "logger = SimpleLogger(__name__)\nclass QueryController:\n    def __init__(\n        self,\n        data_folder: Path,\n        id2index_path: Path,\n        model_service: ModelService,\n        keyframe_service: KeyframeQueryService\n    ):\n        self.data_folder = data_folder",
+        "detail": "app.controller.query_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_llm",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_llm() -> LLM:\n    return GoogleGenAI(\n        'gemini-2.5-flash-lite',\n        api_key=os.getenv('GOOGLE_GENAI_API')\n    )\n@lru_cache()\ndef get_app_settings():\n    \"\"\"Get MongoDB settings (cached)\"\"\"\n    return AppSettings()\n@lru_cache()",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_app_settings",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_app_settings():\n    \"\"\"Get MongoDB settings (cached)\"\"\"\n    return AppSettings()\n@lru_cache()\ndef get_milvus_settings():\n    \"\"\"Get Milvus settings (cached)\"\"\"\n    return KeyFrameIndexMilvusSetting()\n@lru_cache()\ndef get_mongo_settings():\n    \"\"\"Get MongoDB settings (cached)\"\"\"",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_milvus_settings",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_milvus_settings():\n    \"\"\"Get Milvus settings (cached)\"\"\"\n    return KeyFrameIndexMilvusSetting()\n@lru_cache()\ndef get_mongo_settings():\n    \"\"\"Get MongoDB settings (cached)\"\"\"\n    return MongoDBSettings()\ndef get_service_factory(request: Request) -> ServiceFactory:\n    \"\"\"Get ServiceFactory from app state\"\"\"\n    service_factory = getattr(request.app.state, 'service_factory', None)",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_mongo_settings",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_mongo_settings():\n    \"\"\"Get MongoDB settings (cached)\"\"\"\n    return MongoDBSettings()\ndef get_service_factory(request: Request) -> ServiceFactory:\n    \"\"\"Get ServiceFactory from app state\"\"\"\n    service_factory = getattr(request.app.state, 'service_factory', None)\n    if service_factory is None:\n        logger.error(\"ServiceFactory not found in app state\")\n        raise HTTPException(\n            status_code=503, ",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_service_factory",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_service_factory(request: Request) -> ServiceFactory:\n    \"\"\"Get ServiceFactory from app state\"\"\"\n    service_factory = getattr(request.app.state, 'service_factory', None)\n    if service_factory is None:\n        logger.error(\"ServiceFactory not found in app state\")\n        raise HTTPException(\n            status_code=503, \n            detail=\"Service factory not initialized. Please check application startup.\"\n        )\n    return service_factory",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_agent_controller",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_agent_controller(\n    service_factory = Depends(get_service_factory),\n    app_settings: AppSettings = Depends(get_app_settings)\n) -> AgentController:\n    llm = get_llm()\n    keyframe_service = service_factory.get_keyframe_query_service()\n    model_service = service_factory.get_model_service()\n    data_folder = app_settings.DATA_FOLDER\n    objects_data_path = Path(app_settings.FRAME2OBJECT)\n    asr_data_path = Path(app_settings.ASR_PATH)",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_service",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_model_service(service_factory: ServiceFactory = Depends(get_service_factory)) -> ModelService:\n    try:\n        model_service = service_factory.get_model_service()\n        if model_service is None:\n            logger.error(\"Model service not available from factory\")\n            raise HTTPException(\n                status_code=503,\n                detail=\"Model service not available\"\n            )\n        return model_service",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_keyframe_service",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_keyframe_service(service_factory: ServiceFactory = Depends(get_service_factory)) -> KeyframeQueryService:\n    \"\"\"Get keyframe query service from ServiceFactory\"\"\"\n    try:\n        keyframe_service = service_factory.get_keyframe_query_service()\n        if keyframe_service is None:\n            logger.error(\"Keyframe service not available from factory\")\n            raise HTTPException(\n                status_code=503,\n                detail=\"Keyframe service not available\"\n            )",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_mongo_client",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_mongo_client(request: Request):\n    \"\"\"Get MongoDB client from app state\"\"\"\n    mongo_client = getattr(request.app.state, 'mongo_client', None)\n    if mongo_client is None:\n        logger.error(\"MongoDB client not found in app state\")\n        raise HTTPException(\n            status_code=503,\n            detail=\"MongoDB client not initialized\"\n        )\n    return mongo_client",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_milvus_repository",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_milvus_repository(service_factory: ServiceFactory = Depends(get_service_factory)):\n    \"\"\"Get Milvus repository from ServiceFactory\"\"\"\n    try:\n        repository = service_factory.get_milvus_keyframe_repo()\n        if repository is None:\n            raise HTTPException(\n                status_code=503,\n                detail=\"Milvus repository not available\"\n            )\n        return repository",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_query_controller",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_query_controller(\n    model_service: ModelService = Depends(get_model_service),\n    keyframe_service: KeyframeQueryService = Depends(get_keyframe_service),\n    app_settings: AppSettings = Depends(get_app_settings)\n) -> QueryController:\n    \"\"\"Get query controller instance\"\"\"\n    try:\n        logger.info(\"Creating query controller...\")\n        data_folder = Path(app_settings.DATA_FOLDER)\n        id2index_path = Path(app_settings.ID2INDEX_PATH)",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "ROOT_DIR = os.path.abspath(\n    os.path.join(\n        os.path.dirname(__file__), '../'\n    )\n)\nsys.path.insert(0, ROOT_DIR)\nfrom controller.query_controller import QueryController\nfrom service import ModelService, KeyframeQueryService\nfrom core.settings import KeyFrameIndexMilvusSetting, MongoDBSettings, AppSettings\nfrom factory.factory import ServiceFactory",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "logger = SimpleLogger(__name__)\nfrom dotenv import load_dotenv\nload_dotenv()\n@lru_cache\ndef get_llm() -> LLM:\n    return GoogleGenAI(\n        'gemini-2.5-flash-lite',\n        api_key=os.getenv('GOOGLE_GENAI_API')\n    )\n@lru_cache()",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "app.core.lifespan",
+        "description": "app.core.lifespan",
+        "peekOfCode": "ROOT_DIR = os.path.abspath(\n    os.path.join(\n        os.path.dirname(__file__), '../'\n    )\n)\nsys.path.insert(0, ROOT_DIR)\nfrom core.settings import MongoDBSettings, KeyFrameIndexMilvusSetting, AppSettings\nfrom models.keyframe import Keyframe\nfrom factory.factory import ServiceFactory\nfrom core.logger import SimpleLogger",
+        "detail": "app.core.lifespan",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.core.lifespan",
+        "description": "app.core.lifespan",
+        "peekOfCode": "logger = SimpleLogger(__name__)\n@asynccontextmanager\nasync def lifespan(app: FastAPI):\n    \"\"\"\n    FastAPI lifespan context manager for startup and shutdown events\n    \"\"\"\n    logger.info(\"Starting up application...\")\n    try:\n        # Initialize settings\n        app_settings = AppSettings()",
+        "detail": "app.core.lifespan",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleLogger",
+        "kind": 6,
+        "importPath": "app.core.logger",
+        "description": "app.core.logger",
+        "peekOfCode": "class SimpleLogger:\n    \"\"\"Simple logger with console and file output.\"\"\"\n    def __init__(\n        self,\n        name: str,\n        log_dir: str = \"logs\",\n        console_level: str = \"DEBUG\",\n        file_level: str = \"DEBUG\"\n    ):\n        self.logger = logging.getLogger(name)",
+        "detail": "app.core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "MongoDBSettings",
+        "kind": 6,
+        "importPath": "app.core.settings",
+        "description": "app.core.settings",
+        "peekOfCode": "class MongoDBSettings(BaseSettings):\n    MONGO_HOST: str = \"cluster0.gml39fb.mongodb.net\"\n    MONGO_PORT: int = 27017\n    MONGO_DB: str = \"HCM_AI_Challenge\"\n    MONGO_USER: str = \"vothikimtrang\"\n    MONGO_PASSWORD: str = \"06101997\"\n    def get_mongo_uri(self) -> str:\n        \"\"\"Generate MongoDB Atlas connection string.\"\"\"\n        return f\"mongodb+srv://{self.MONGO_USER}:{self.MONGO_PASSWORD}@{self.MONGO_HOST}/{self.MONGO_DB}?retryWrites=true&w=majority\"\n    class Config:",
+        "detail": "app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "IndexPathSettings",
+        "kind": 6,
+        "importPath": "app.core.settings",
+        "description": "app.core.settings",
+        "peekOfCode": "class IndexPathSettings(BaseSettings):\n    FAISS_INDEX_PATH: str | None  \n    USEARCH_INDEX_PATH: str | None\nclass KeyFrameIndexMilvusSetting(BaseSettings):\n    COLLECTION_NAME: str = \"keyframe\"\n    HOST: str = 'localhost'\n    PORT: str = '19530'\n    METRIC_TYPE: str = 'COSINE'\n    INDEX_TYPE: str = 'FLAT'\n    BATCH_SIZE: int =10000",
+        "detail": "app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "KeyFrameIndexMilvusSetting",
+        "kind": 6,
+        "importPath": "app.core.settings",
+        "description": "app.core.settings",
+        "peekOfCode": "class KeyFrameIndexMilvusSetting(BaseSettings):\n    COLLECTION_NAME: str = \"keyframe\"\n    HOST: str = 'localhost'\n    PORT: str = '19530'\n    METRIC_TYPE: str = 'COSINE'\n    INDEX_TYPE: str = 'FLAT'\n    BATCH_SIZE: int =10000\n    SEARCH_PARAMS: dict = {}\nclass AppSettings(BaseSettings):\n    # ASR_PATH: str = '/media/tinhanhnguyen/Data3/Projects/HCMAI2025_Baseline/app/data/asr_proc.json'",
+        "detail": "app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AppSettings",
+        "kind": 6,
+        "importPath": "app.core.settings",
+        "description": "app.core.settings",
+        "peekOfCode": "class AppSettings(BaseSettings):\n    # ASR_PATH: str = '/media/tinhanhnguyen/Data3/Projects/HCMAI2025_Baseline/app/data/asr_proc.json'\n    # DATA_FOLDER: str = Field(\n    #     \"D:\\\\AI Viet Nam\\\\AI_Challenge\\\\Dataset\\\\Keyframes\",\n    #     description=\"Root directory for keyframe data, structured as Keyframes_Lxx\\keyframes\\Lxx_Vyyy\\zzz.jpg\"\n    # )\n    ROOT_FOLDER: str = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\"\n    DATA_FOLDER: str = r\"D:\\AI Viet Nam\\AI_Challenge\\Dataset\\Keyframes\"\n    ID2INDEX_PATH: str = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\\file_embeddings\\id2index.json\"\n    CLIP_FEATURES_PATH: str = r\"D:\\AI Viet Nam\\AI_Challenge\\Dataset\\clip-features-32\"",
+        "detail": "app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceFactory",
+        "kind": 6,
+        "importPath": "app.factory.factory",
+        "description": "app.factory.factory",
+        "peekOfCode": "class ServiceFactory:\n    def __init__(\n        self,\n        milvus_collection_name: str,\n        milvus_host: str,\n        milvus_port: str ,\n        milvus_user: str ,\n        milvus_password: str ,\n        milvus_search_params: dict,\n        model_name: str ,",
+        "detail": "app.factory.factory",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "app.factory.factory",
+        "description": "app.factory.factory",
+        "peekOfCode": "ROOT_DIR = os.path.abspath(\n    os.path.join(\n        os.path.dirname(__file__), '../'\n    )\n)\nsys.path.insert(0, ROOT_DIR)\nfrom repository.mongo import KeyframeRepository\nfrom repository.milvus import KeyframeVectorRepository\nfrom service import KeyframeQueryService, ModelService\nfrom models.keyframe import Keyframe",
+        "detail": "app.factory.factory",
+        "documentation": {}
+    },
+    {
+        "label": "Keyframe",
+        "kind": 6,
+        "importPath": "app.models.keyframe",
+        "description": "app.models.keyframe",
+        "peekOfCode": "class Keyframe(Document):\n    key: Annotated[int, Indexed(unique=True)]\n    video_num: Annotated[int, Indexed()]\n    group_num: Annotated[int, Indexed()]\n    keyframe_num: Annotated[int, Indexed()]\n    class Settings:\n        name = \"keyframes\"",
+        "detail": "app.models.keyframe",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeVectorRepository",
+        "kind": 6,
+        "importPath": "app.repository.milvus",
+        "description": "app.repository.milvus",
+        "peekOfCode": "class KeyframeVectorRepository(MilvusBaseRepository):\n    def __init__(\n        self, \n        collection: MilvusCollection,\n        search_params: dict\n    ):\n        super().__init__(collection)\n        self.search_params = search_params\n    async def search_by_embedding(\n        self,",
+        "detail": "app.repository.milvus",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "app.repository.milvus",
+        "description": "app.repository.milvus",
+        "peekOfCode": "ROOT_DIR = os.path.abspath(\n    os.path.join(\n        os.path.dirname(__file__), '../'\n    )\n)\nsys.path.insert(0, ROOT_DIR)\nfrom typing import cast\nfrom common.repository import MilvusBaseRepository\nfrom pymilvus import Collection as MilvusCollection\nfrom pymilvus.client.search_result import SearchResult",
+        "detail": "app.repository.milvus",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeRepository",
+        "kind": 6,
+        "importPath": "app.repository.mongo",
+        "description": "app.repository.mongo",
+        "peekOfCode": "class KeyframeRepository(MongoBaseRepository[Keyframe]):\n    # def __init__(self, settings: AppSettings):\n    #     try:\n    #         # Construct MongoDB connection string with SSL and timeouts\n    #         connection_string = (\n    #             f\"mongodb+srv://{settings.MONGO_USER}:{settings.MONGO_PASSWORD}@\"\n    #             f\"{settings.MONGO_HOST}/{settings.MONGO_DB}?retryWrites=true&w=majority\"\n    #             f\"&tls=true&tlsAllowInvalidCertificates=false\"\n    #         )\n    #         self.client = MongoClient(",
+        "detail": "app.repository.mongo",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "app.repository.mongo",
+        "description": "app.repository.mongo",
+        "peekOfCode": "ROOT_DIR = os.path.abspath(\n    os.path.join(\n        os.path.dirname(__file__), '../'\n    )\n)\nsys.path.insert(0, ROOT_DIR)\nfrom typing import Any\nfrom models.keyframe import Keyframe\nfrom common.repository import MongoBaseRepository\nfrom schema.interface import KeyframeInterface",
+        "detail": "app.repository.mongo",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.router.agent_api",
+        "description": "app.router.agent_api",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/agent\",\n    tags=[\"agent\"],\n    responses={404: {\"description\": \"Not found\"}},\n)\nlogger = SimpleLogger(__name__)\n@router.post(\n    \"/search\",\n    response_model=AgentQueryResponse,\n    summary=\"Intelligent keyframe search with AI agent\",",
+        "detail": "app.router.agent_api",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.router.agent_api",
+        "description": "app.router.agent_api",
+        "peekOfCode": "logger = SimpleLogger(__name__)\n@router.post(\n    \"/search\",\n    response_model=AgentQueryResponse,\n    summary=\"Intelligent keyframe search with AI agent\",\n    description=\"\"\"\n    Use the AI agent to search for keyframes and generate comprehensive answers.\n    The agent will:\n    1. Extract and rephrase visual elements from your query for better search\n    2. Search for relevant keyframes using semantic similarity",
+        "detail": "app.router.agent_api",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.router.keyframe_api",
+        "description": "app.router.keyframe_api",
+        "peekOfCode": "logger = SimpleLogger(__name__)\nrouter = APIRouter(\n    prefix=\"/keyframe\",\n    tags=[\"keyframe\"],\n    responses={404: {\"description\": \"Not found\"}},\n)\n@router.post(\n    \"/search\",\n    response_model=KeyframeDisplay,\n    summary=\"Simple text search for keyframes\",",
+        "detail": "app.router.keyframe_api",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.router.keyframe_api",
+        "description": "app.router.keyframe_api",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/keyframe\",\n    tags=[\"keyframe\"],\n    responses={404: {\"description\": \"Not found\"}},\n)\n@router.post(\n    \"/search\",\n    response_model=KeyframeDisplay,\n    summary=\"Simple text search for keyframes\",\n    description=\"\"\"",
+        "detail": "app.router.keyframe_api",
+        "documentation": {}
+    },
+    {
+        "label": "AgentResponse",
+        "kind": 6,
+        "importPath": "app.schema.agent",
+        "description": "app.schema.agent",
+        "peekOfCode": "class AgentResponse(BaseModel):\n    refined_query: str = Field(..., description=\"The rephrased response\")\n    list_of_objects: list[str] | None = Field(None, description=\"The list of objects for filtering(Object from coco class), optionall\")\nclass AgentQueryRequest(BaseModel):\n    \"\"\"Request model for agent queries\"\"\"\n    query: str = Field(..., description=\"Natural language query\", min_length=1, max_length=2000)\nclass AgentQueryResponse(BaseModel):\n    \"\"\"Response model for agent queries\"\"\"\n    query: str = Field(..., description=\"Original query\")\n    answer: str = Field(..., description=\"Generated answer\")",
+        "detail": "app.schema.agent",
+        "documentation": {}
+    },
+    {
+        "label": "AgentQueryRequest",
+        "kind": 6,
+        "importPath": "app.schema.agent",
+        "description": "app.schema.agent",
+        "peekOfCode": "class AgentQueryRequest(BaseModel):\n    \"\"\"Request model for agent queries\"\"\"\n    query: str = Field(..., description=\"Natural language query\", min_length=1, max_length=2000)\nclass AgentQueryResponse(BaseModel):\n    \"\"\"Response model for agent queries\"\"\"\n    query: str = Field(..., description=\"Original query\")\n    answer: str = Field(..., description=\"Generated answer\")",
+        "detail": "app.schema.agent",
+        "documentation": {}
+    },
+    {
+        "label": "AgentQueryResponse",
+        "kind": 6,
+        "importPath": "app.schema.agent",
+        "description": "app.schema.agent",
+        "peekOfCode": "class AgentQueryResponse(BaseModel):\n    \"\"\"Response model for agent queries\"\"\"\n    query: str = Field(..., description=\"Original query\")\n    answer: str = Field(..., description=\"Generated answer\")",
+        "detail": "app.schema.agent",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeInterface",
+        "kind": 6,
+        "importPath": "app.schema.interface",
+        "description": "app.schema.interface",
+        "peekOfCode": "class KeyframeInterface(BaseModel):\n    key: int = Field(..., description=\"Keyframe key\")\n    video_num: int = Field(..., description=\"Video ID\")\n    group_num: int = Field(..., description=\"Group ID\")\n    keyframe_num: int = Field(..., description=\"Keyframe number\")\nclass MilvusSearchRequest(BaseModel):\n    embedding: List[float] = Field(..., description=\"Query embedding vector\")\n    top_k: int = Field(default=10, ge=1, le=1000, description=\"Number of top results to return\")\n    exclude_ids: Optional[List[int]] = Field(default=None, description=\"IDs to exclude from search results\")\nclass MilvusSearchResult(BaseModel):",
+        "detail": "app.schema.interface",
+        "documentation": {}
+    },
+    {
+        "label": "MilvusSearchRequest",
+        "kind": 6,
+        "importPath": "app.schema.interface",
+        "description": "app.schema.interface",
+        "peekOfCode": "class MilvusSearchRequest(BaseModel):\n    embedding: List[float] = Field(..., description=\"Query embedding vector\")\n    top_k: int = Field(default=10, ge=1, le=1000, description=\"Number of top results to return\")\n    exclude_ids: Optional[List[int]] = Field(default=None, description=\"IDs to exclude from search results\")\nclass MilvusSearchResult(BaseModel):\n    \"\"\"Individual search result\"\"\"\n    id_: int = Field(..., description=\"Primary key of the result\")\n    distance: float = Field(..., description=\"Distance/similarity score\")\n    embedding: Optional[List[float]] = Field(default=None, description=\"Original embedding vector\")\nclass MilvusSearchResponse(BaseModel):",
+        "detail": "app.schema.interface",
+        "documentation": {}
+    },
+    {
+        "label": "MilvusSearchResult",
+        "kind": 6,
+        "importPath": "app.schema.interface",
+        "description": "app.schema.interface",
+        "peekOfCode": "class MilvusSearchResult(BaseModel):\n    \"\"\"Individual search result\"\"\"\n    id_: int = Field(..., description=\"Primary key of the result\")\n    distance: float = Field(..., description=\"Distance/similarity score\")\n    embedding: Optional[List[float]] = Field(default=None, description=\"Original embedding vector\")\nclass MilvusSearchResponse(BaseModel):\n    \"\"\"Response model for vector search\"\"\"\n    results: List[MilvusSearchResult] = Field(..., description=\"Search results\")\n    total_found: int = Field(..., description=\"Total number of results found\")\n    search_time_ms: Optional[float] = Field(default=None, description=\"Search execution time in milliseconds\")",
+        "detail": "app.schema.interface",
+        "documentation": {}
+    },
+    {
+        "label": "MilvusSearchResponse",
+        "kind": 6,
+        "importPath": "app.schema.interface",
+        "description": "app.schema.interface",
+        "peekOfCode": "class MilvusSearchResponse(BaseModel):\n    \"\"\"Response model for vector search\"\"\"\n    results: List[MilvusSearchResult] = Field(..., description=\"Search results\")\n    total_found: int = Field(..., description=\"Total number of results found\")\n    search_time_ms: Optional[float] = Field(default=None, description=\"Search execution time in milliseconds\")",
+        "detail": "app.schema.interface",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSearchRequest",
+        "kind": 6,
+        "importPath": "app.schema.request",
+        "description": "app.schema.request",
+        "peekOfCode": "class BaseSearchRequest(BaseModel):\n    \"\"\"Base search request with common parameters\"\"\"\n    query: str = Field(..., description=\"Search query text\", min_length=1, max_length=1000)\n    top_k: int = Field(default=10, ge=1, le=500, description=\"Number of top results to return\")\n    score_threshold: float = Field(default=0.0, ge=0.0, le=1.0, description=\"Minimum confidence score threshold\")\nclass TextSearchRequest(BaseSearchRequest):\n    \"\"\"Simple text search request\"\"\"\n    pass\nclass TextSearchWithExcludeGroupsRequest(BaseSearchRequest):\n    \"\"\"Text search request with group exclusion\"\"\"",
+        "detail": "app.schema.request",
+        "documentation": {}
+    },
+    {
+        "label": "TextSearchRequest",
+        "kind": 6,
+        "importPath": "app.schema.request",
+        "description": "app.schema.request",
+        "peekOfCode": "class TextSearchRequest(BaseSearchRequest):\n    \"\"\"Simple text search request\"\"\"\n    pass\nclass TextSearchWithExcludeGroupsRequest(BaseSearchRequest):\n    \"\"\"Text search request with group exclusion\"\"\"\n    exclude_groups: List[int] = Field(\n        default_factory=list,\n        description=\"List of group IDs to exclude from search results\",\n    )\nclass TextSearchWithSelectedGroupsAndVideosRequest(BaseSearchRequest):",
+        "detail": "app.schema.request",
+        "documentation": {}
+    },
+    {
+        "label": "TextSearchWithExcludeGroupsRequest",
+        "kind": 6,
+        "importPath": "app.schema.request",
+        "description": "app.schema.request",
+        "peekOfCode": "class TextSearchWithExcludeGroupsRequest(BaseSearchRequest):\n    \"\"\"Text search request with group exclusion\"\"\"\n    exclude_groups: List[int] = Field(\n        default_factory=list,\n        description=\"List of group IDs to exclude from search results\",\n    )\nclass TextSearchWithSelectedGroupsAndVideosRequest(BaseSearchRequest):\n    \"\"\"Text search request with specific group and video selection\"\"\"\n    include_groups: List[int] = Field(\n        default_factory=list,",
+        "detail": "app.schema.request",
+        "documentation": {}
+    },
+    {
+        "label": "TextSearchWithSelectedGroupsAndVideosRequest",
+        "kind": 6,
+        "importPath": "app.schema.request",
+        "description": "app.schema.request",
+        "peekOfCode": "class TextSearchWithSelectedGroupsAndVideosRequest(BaseSearchRequest):\n    \"\"\"Text search request with specific group and video selection\"\"\"\n    include_groups: List[int] = Field(\n        default_factory=list,\n        description=\"List of group IDs to include in search results\",\n    )\n    include_videos: List[int] = Field(\n        default_factory=list,\n        description=\"List of video IDs to include in search results\",\n    )",
+        "detail": "app.schema.request",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeServiceResponse",
+        "kind": 6,
+        "importPath": "app.schema.response",
+        "description": "app.schema.response",
+        "peekOfCode": "class KeyframeServiceResponse(BaseModel):\n    key: int = Field(..., description=\"Keyframe key\")\n    video_num: int = Field(..., description=\"Video ID\")\n    group_num: int = Field(..., description=\"Group ID\")\n    keyframe_num: int = Field(..., description=\"Keyframe number\")\n    confidence_score: float = Field(..., description=\"Keyframe number\")\nclass SingleKeyframeDisplay(BaseModel):\n    path: str\n    score: float\nclass KeyframeDisplay(BaseModel):",
+        "detail": "app.schema.response",
+        "documentation": {}
+    },
+    {
+        "label": "SingleKeyframeDisplay",
+        "kind": 6,
+        "importPath": "app.schema.response",
+        "description": "app.schema.response",
+        "peekOfCode": "class SingleKeyframeDisplay(BaseModel):\n    path: str\n    score: float\nclass KeyframeDisplay(BaseModel):\n    results: list[SingleKeyframeDisplay]",
+        "detail": "app.schema.response",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeDisplay",
+        "kind": 6,
+        "importPath": "app.schema.response",
+        "description": "app.schema.response",
+        "peekOfCode": "class KeyframeDisplay(BaseModel):\n    results: list[SingleKeyframeDisplay]",
+        "detail": "app.schema.response",
+        "documentation": {}
+    },
+    {
+        "label": "ModelService",
+        "kind": 6,
+        "importPath": "app.service.model_service",
+        "description": "app.service.model_service",
+        "peekOfCode": "class ModelService:\n    def __init__(\n        self,\n        model,\n        preprocess,\n        tokenizer,\n        device: str = 'cuda'\n    ):\n        self.model = model\n        self.model = model.to(device)",
+        "detail": "app.service.model_service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.service.model_service",
+        "description": "app.service.model_service",
+        "peekOfCode": "logger = SimpleLogger(__name__)\nclass ModelService:\n    def __init__(\n        self,\n        model,\n        preprocess,\n        tokenizer,\n        device: str = 'cuda'\n    ):\n        self.model = model",
+        "detail": "app.service.model_service",
+        "documentation": {}
+    },
+    {
+        "label": "KeyframeQueryService",
+        "kind": 6,
+        "importPath": "app.service.search_service",
+        "description": "app.service.search_service",
+        "peekOfCode": "class KeyframeQueryService:\n    def __init__(\n            self, \n            keyframe_vector_repo: KeyframeVectorRepository,\n            keyframe_mongo_repo: KeyframeRepository,\n        ):\n        self.keyframe_vector_repo = keyframe_vector_repo\n        self.keyframe_mongo_repo= keyframe_mongo_repo\n    async def _retrieve_keyframes(self, ids: list[int]):\n        keyframes = await self.keyframe_mongo_repo.get_keyframe_by_list_of_keys(ids)",
+        "detail": "app.service.search_service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.service.search_service",
+        "description": "app.service.search_service",
+        "peekOfCode": "logger = SimpleLogger(__name__)\n# Add root directory to Python path\nROOT_FOLDER = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\"\nsys.path.insert(0, ROOT_FOLDER)\n# Debug directory structure\nlogger.debug(f\"ROOT_FOLDER: {ROOT_FOLDER}\")\nlogger.debug(f\"sys.path: {sys.path}\")\nlogger.debug(f\"Directory contents of {ROOT_FOLDER}: {os.listdir(ROOT_FOLDER)}\")\napp_path = os.path.join(ROOT_FOLDER, 'app')\nif os.path.exists(app_path):",
+        "detail": "app.service.search_service",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_FOLDER",
+        "kind": 5,
+        "importPath": "app.service.search_service",
+        "description": "app.service.search_service",
+        "peekOfCode": "ROOT_FOLDER = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\"\nsys.path.insert(0, ROOT_FOLDER)\n# Debug directory structure\nlogger.debug(f\"ROOT_FOLDER: {ROOT_FOLDER}\")\nlogger.debug(f\"sys.path: {sys.path}\")\nlogger.debug(f\"Directory contents of {ROOT_FOLDER}: {os.listdir(ROOT_FOLDER)}\")\napp_path = os.path.join(ROOT_FOLDER, 'app')\nif os.path.exists(app_path):\n    logger.debug(f\"Contents of {app_path}: {os.listdir(app_path)}\")\nelse:",
+        "detail": "app.service.search_service",
+        "documentation": {}
+    },
+    {
+        "label": "app_path",
+        "kind": 5,
+        "importPath": "app.service.search_service",
+        "description": "app.service.search_service",
+        "peekOfCode": "app_path = os.path.join(ROOT_FOLDER, 'app')\nif os.path.exists(app_path):\n    logger.debug(f\"Contents of {app_path}: {os.listdir(app_path)}\")\nelse:\n    logger.error(f\"app directory not found at {app_path}\")\n# Try importing Keyframe\ntry:\n    from app.models.keyframe import Keyframe\n    from app.core.settings import MongoDBSettings\nexcept ImportError as e:",
+        "detail": "app.service.search_service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "logger = SimpleLogger(__name__)\napp = FastAPI(\n    title=\"Keyframe Search API\",\n    description=\"\"\"\n    ## Keyframe Search API\n    A powerful semantic search API for video keyframes using vector embeddings.\n    ### Features\n    * **Text-to-Video Search**: Search for video keyframes using natural language\n    * **Semantic Similarity**: Uses advanced embedding models for semantic understanding\n    * **Flexible Filtering**: Include/exclude specific groups and videos",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"Keyframe Search API\",\n    description=\"\"\"\n    ## Keyframe Search API\n    A powerful semantic search API for video keyframes using vector embeddings.\n    ### Features\n    * **Text-to-Video Search**: Search for video keyframes using natural language\n    * **Semantic Similarity**: Uses advanced embedding models for semantic understanding\n    * **Flexible Filtering**: Include/exclude specific groups and videos\n    * **Configurable Results**: Adjust result count and confidence thresholds",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "MilvusEmbeddingInjector",
+        "kind": 6,
+        "importPath": "migration.embedding_migration",
+        "description": "migration.embedding_migration",
+        "peekOfCode": "class MilvusEmbeddingInjector:\n    def __init__(\n        self,\n        setting: KeyFrameIndexMilvusSetting,\n        collection_name: str,\n        host: str = \"localhost\",\n        port: str = \"19530\",\n        user: str = \"\",\n        password: str = \"\",\n        db_name: str = \"default\",",
+        "detail": "migration.embedding_migration",
+        "documentation": {}
+    },
+    {
+        "label": "inject_embeddings_simple",
+        "kind": 2,
+        "importPath": "migration.embedding_migration",
+        "description": "migration.embedding_migration",
+        "peekOfCode": "def inject_embeddings_simple(\n    embedding_file_path: str,\n    setting: KeyFrameIndexMilvusSetting\n):\n    injector = MilvusEmbeddingInjector(\n        setting=setting,\n        collection_name=setting.COLLECTION_NAME,\n        host=setting.HOST,\n        port=setting.PORT\n    )",
+        "detail": "migration.embedding_migration",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_FOLDER",
+        "kind": 5,
+        "importPath": "migration.embedding_migration",
+        "description": "migration.embedding_migration",
+        "peekOfCode": "ROOT_FOLDER = os.path.abspath(\n    os.path.join(os.path.dirname(__file__), '..')\n)\nsys.path.insert(0, ROOT_FOLDER)\nfrom app.core.settings import KeyFrameIndexMilvusSetting\ntry:\n    from core.logger import SimpleLogger, logger\nexcept ImportError:\n    import logging\n    logging.basicConfig(level=logging.INFO,",
+        "detail": "migration.embedding_migration",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "migration.embedding_migration",
+        "description": "migration.embedding_migration",
+        "peekOfCode": "logger = SimpleLogger(__name__)\nclass MilvusEmbeddingInjector:\n    def __init__(\n        self,\n        setting: KeyFrameIndexMilvusSetting,\n        collection_name: str,\n        host: str = \"localhost\",\n        port: str = \"19530\",\n        user: str = \"\",\n        password: str = \"\",",
+        "detail": "migration.embedding_migration",
+        "documentation": {}
+    },
+    {
+        "label": "generate_embeddings",
+        "kind": 2,
+        "importPath": "migration.generate_embeddings_features",
+        "description": "migration.generate_embeddings_features",
+        "peekOfCode": "def generate_embeddings():\n    # Load id2index.json for keyframe paths\n    try:\n        with open(ID2INDEX_PATH, 'r') as f:\n            id2index = json.load(f)\n        valid_groups = list(range(21, 31))  # Groups L21 to L30\n        id2index = {k: v for k, v in id2index.items() if int(v.split('/')[0]) in valid_groups}\n        print(f\"Loaded {len(id2index)} entries from id2index.json for groups L21 to L30\")\n    except Exception as e:\n        print(f\"Error loading id2index.json: {e}\")",
+        "detail": "migration.generate_embeddings_features",
+        "documentation": {}
+    },
+    {
+        "label": "FEATURE_DIR",
+        "kind": 5,
+        "importPath": "migration.generate_embeddings_features",
+        "description": "migration.generate_embeddings_features",
+        "peekOfCode": "FEATURE_DIR = r\"D:\\AI Viet Nam\\AI_Challenge\\Dataset\\clip-features-32\"\nID2INDEX_PATH = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\\file_embeddings\\id2index.json\"\nOUTPUT_PATH = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\\file_embeddings\\CLIP_ViT-B-32_laion2b_s34b_b79k_clip_embeddings.pt\"\nKEYFRAME_DIR = r\"D:\\AI Viet Nam\\AI_Challenge\\Dataset\\Keyframes\"\ndef generate_embeddings():\n    # Load id2index.json for keyframe paths\n    try:\n        with open(ID2INDEX_PATH, 'r') as f:\n            id2index = json.load(f)\n        valid_groups = list(range(21, 31))  # Groups L21 to L30",
+        "detail": "migration.generate_embeddings_features",
+        "documentation": {}
+    },
+    {
+        "label": "ID2INDEX_PATH",
+        "kind": 5,
+        "importPath": "migration.generate_embeddings_features",
+        "description": "migration.generate_embeddings_features",
+        "peekOfCode": "ID2INDEX_PATH = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\\file_embeddings\\id2index.json\"\nOUTPUT_PATH = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\\file_embeddings\\CLIP_ViT-B-32_laion2b_s34b_b79k_clip_embeddings.pt\"\nKEYFRAME_DIR = r\"D:\\AI Viet Nam\\AI_Challenge\\Dataset\\Keyframes\"\ndef generate_embeddings():\n    # Load id2index.json for keyframe paths\n    try:\n        with open(ID2INDEX_PATH, 'r') as f:\n            id2index = json.load(f)\n        valid_groups = list(range(21, 31))  # Groups L21 to L30\n        id2index = {k: v for k, v in id2index.items() if int(v.split('/')[0]) in valid_groups}",
+        "detail": "migration.generate_embeddings_features",
+        "documentation": {}
+    },
+    {
+        "label": "OUTPUT_PATH",
+        "kind": 5,
+        "importPath": "migration.generate_embeddings_features",
+        "description": "migration.generate_embeddings_features",
+        "peekOfCode": "OUTPUT_PATH = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\\file_embeddings\\CLIP_ViT-B-32_laion2b_s34b_b79k_clip_embeddings.pt\"\nKEYFRAME_DIR = r\"D:\\AI Viet Nam\\AI_Challenge\\Dataset\\Keyframes\"\ndef generate_embeddings():\n    # Load id2index.json for keyframe paths\n    try:\n        with open(ID2INDEX_PATH, 'r') as f:\n            id2index = json.load(f)\n        valid_groups = list(range(21, 31))  # Groups L21 to L30\n        id2index = {k: v for k, v in id2index.items() if int(v.split('/')[0]) in valid_groups}\n        print(f\"Loaded {len(id2index)} entries from id2index.json for groups L21 to L30\")",
+        "detail": "migration.generate_embeddings_features",
+        "documentation": {}
+    },
+    {
+        "label": "KEYFRAME_DIR",
+        "kind": 5,
+        "importPath": "migration.generate_embeddings_features",
+        "description": "migration.generate_embeddings_features",
+        "peekOfCode": "KEYFRAME_DIR = r\"D:\\AI Viet Nam\\AI_Challenge\\Dataset\\Keyframes\"\ndef generate_embeddings():\n    # Load id2index.json for keyframe paths\n    try:\n        with open(ID2INDEX_PATH, 'r') as f:\n            id2index = json.load(f)\n        valid_groups = list(range(21, 31))  # Groups L21 to L30\n        id2index = {k: v for k, v in id2index.items() if int(v.split('/')[0]) in valid_groups}\n        print(f\"Loaded {len(id2index)} entries from id2index.json for groups L21 to L30\")\n    except Exception as e:",
+        "detail": "migration.generate_embeddings_features",
+        "documentation": {}
+    },
+    {
+        "label": "generate_id2index",
+        "kind": 2,
+        "importPath": "migration.generate_id2index",
+        "description": "migration.generate_id2index",
+        "peekOfCode": "def generate_id2index(keyframes_root: str, output_path: str, expected_count: int = 289324):\n    \"\"\"\n    Generate id2index.json from Keyframes directory with format like {\"0\": \"24/1/137\", \"1\": \"24/1/138\", ...}.\n    Args:\n        keyframes_root (str): Path to Keyframes directory (e.g., D:\\AI Viet Nam\\AI_Challenge\\Dataset\\Keyframes)\n        output_path (str): Path to save id2index.json\n        expected_count (int): Expected number of keyframes (default: 289324)\n    \"\"\"\n    if os.name == 'nt':\n        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')",
+        "detail": "migration.generate_id2index",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "migration.generate_id2index",
+        "description": "migration.generate_id2index",
+        "peekOfCode": "ROOT_DIR = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline-main\"\nsys.path.insert(0, ROOT_DIR)\ntry:\n    from core.logger import SimpleLogger, logger\nexcept ImportError:\n    import logging\n    logging.basicConfig(level=logging.INFO, format='%(asctime)s | %(levelname)s | %(message)s')\n    logger = logging.getLogger(__name__)\n    SimpleLogger = logging.getLogger\nlogger = SimpleLogger(__name__)",
+        "detail": "migration.generate_id2index",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "migration.generate_id2index",
+        "description": "migration.generate_id2index",
+        "peekOfCode": "logger = SimpleLogger(__name__)\ndef generate_id2index(keyframes_root: str, output_path: str, expected_count: int = 289324):\n    \"\"\"\n    Generate id2index.json from Keyframes directory with format like {\"0\": \"24/1/137\", \"1\": \"24/1/138\", ...}.\n    Args:\n        keyframes_root (str): Path to Keyframes directory (e.g., D:\\AI Viet Nam\\AI_Challenge\\Dataset\\Keyframes)\n        output_path (str): Path to save id2index.json\n        expected_count (int): Expected number of keyframes (default: 289324)\n    \"\"\"\n    if os.name == 'nt':",
+        "detail": "migration.generate_id2index",
+        "documentation": {}
+    },
+    {
+        "label": "load_json_data",
+        "kind": 2,
+        "importPath": "migration.keyframe_migration",
+        "description": "migration.keyframe_migration",
+        "peekOfCode": "def load_json_data(file_path):\n    return json.load(open(file_path, 'r', encoding='utf-8'))\ndef transform_data(data: dict[str, str]) -> list[Keyframe]:\n    \"\"\"\n    Convert the data from the old format to the new Keyframe model.\n    \"\"\"\n    keyframes = []\n    for key, value in data.items():\n        group, video, keyframe = value.split('/')\n        keyframe_obj = Keyframe(",
+        "detail": "migration.keyframe_migration",
+        "documentation": {}
+    },
+    {
+        "label": "transform_data",
+        "kind": 2,
+        "importPath": "migration.keyframe_migration",
+        "description": "migration.keyframe_migration",
+        "peekOfCode": "def transform_data(data: dict[str, str]) -> list[Keyframe]:\n    \"\"\"\n    Convert the data from the old format to the new Keyframe model.\n    \"\"\"\n    keyframes = []\n    for key, value in data.items():\n        group, video, keyframe = value.split('/')\n        keyframe_obj = Keyframe(\n            key=int(key),\n            video_num=int(video),",
+        "detail": "migration.keyframe_migration",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "migration.keyframe_migration",
+        "description": "migration.keyframe_migration",
+        "peekOfCode": "logger = SimpleLogger(__name__)\n# Add root directory to Python path\nROOT_FOLDER = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\"\nsys.path.insert(0, ROOT_FOLDER)\n# Debug directory structure\nlogger.debug(f\"ROOT_FOLDER: {ROOT_FOLDER}\")\nlogger.debug(f\"sys.path: {sys.path}\")\nlogger.debug(f\"Directory contents of {ROOT_FOLDER}: {os.listdir(ROOT_FOLDER)}\")\napp_path = os.path.join(ROOT_FOLDER, 'app')\nif os.path.exists(app_path):",
+        "detail": "migration.keyframe_migration",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_FOLDER",
+        "kind": 5,
+        "importPath": "migration.keyframe_migration",
+        "description": "migration.keyframe_migration",
+        "peekOfCode": "ROOT_FOLDER = r\"D:\\AI Viet Nam\\AI_Challenge\\Source_Code\\HCMAI2025_Baseline\"\nsys.path.insert(0, ROOT_FOLDER)\n# Debug directory structure\nlogger.debug(f\"ROOT_FOLDER: {ROOT_FOLDER}\")\nlogger.debug(f\"sys.path: {sys.path}\")\nlogger.debug(f\"Directory contents of {ROOT_FOLDER}: {os.listdir(ROOT_FOLDER)}\")\napp_path = os.path.join(ROOT_FOLDER, 'app')\nif os.path.exists(app_path):\n    logger.debug(f\"Contents of {app_path}: {os.listdir(app_path)}\")\nelse:",
+        "detail": "migration.keyframe_migration",
+        "documentation": {}
+    },
+    {
+        "label": "app_path",
+        "kind": 5,
+        "importPath": "migration.keyframe_migration",
+        "description": "migration.keyframe_migration",
+        "peekOfCode": "app_path = os.path.join(ROOT_FOLDER, 'app')\nif os.path.exists(app_path):\n    logger.debug(f\"Contents of {app_path}: {os.listdir(app_path)}\")\nelse:\n    logger.error(f\"app directory not found at {app_path}\")\n# Try importing Keyframe\ntry:\n    from app.models.keyframe import Keyframe\n    from app.core.settings import MongoDBSettings\nexcept ImportError as e:",
+        "detail": "migration.keyframe_migration",
+        "documentation": {}
+    },
+    {
+        "label": "SETTING",
+        "kind": 5,
+        "importPath": "migration.keyframe_migration",
+        "description": "migration.keyframe_migration",
+        "peekOfCode": "SETTING = MongoDBSettings()\nasync def init_db():\n    # Initialize MongoDB settings\n    try:\n        settings = MongoDBSettings()\n        logger.debug(f\"MongoDB settings: username={settings.MONGO_USER}, db={settings.MONGO_DB}\")\n    except Exception as e:\n        logger.error(f\"Failed to initialize MongoDBSettings: {e}\")\n        raise\n    # MongoDB Atlas connection string",
+        "detail": "migration.keyframe_migration",
+        "documentation": {}
+    },
+    {
+        "label": "count_images",
+        "kind": 2,
+        "importPath": "migration.test",
+        "description": "migration.test",
+        "peekOfCode": "def count_images(keyframe_dir: str):\n    keyframe_path = Path(keyframe_dir)\n    if not keyframe_path.exists():\n        print(f\"Keyframes directory {keyframe_path} does not exist\")\n        return 0\n    total_images = 0\n    valid_groups = [f\"Keyframes_L{i:02d}\" for i in range(21, 31)]\n    for batch_folder in valid_groups:\n        batch_path = keyframe_path / batch_folder\n        if not batch_path.exists():",
+        "detail": "migration.test",
+        "documentation": {}
+    },
+    {
+        "label": "KEYFRAME_DIR",
+        "kind": 5,
+        "importPath": "migration.test",
+        "description": "migration.test",
+        "peekOfCode": "KEYFRAME_DIR = r\"D:\\AI Viet Nam\\AI_Challenge\\Dataset\\Keyframes\"\ndef count_images(keyframe_dir: str):\n    keyframe_path = Path(keyframe_dir)\n    if not keyframe_path.exists():\n        print(f\"Keyframes directory {keyframe_path} does not exist\")\n        return 0\n    total_images = 0\n    valid_groups = [f\"Keyframes_L{i:02d}\" for i in range(21, 31)]\n    for batch_folder in valid_groups:\n        batch_path = keyframe_path / batch_folder",
+        "detail": "migration.test",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except OSError:\n                pass\n        tee_f.write(what)",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_root_hkey",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means\n        # must be HKCU\n        return winreg.HKEY_CURRENT_USER",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "create_shortcut",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def create_shortcut(\n    path, description, filename, arguments=\"\", workdir=\"\", iconpath=\"\", iconindex=0\n):\n    import pythoncom\n    from win32com.shell import shell\n    ilink = pythoncom.CoCreateInstance(\n        shell.CLSID_ShellLink,\n        None,\n        pythoncom.CLSCTX_INPROC_SERVER,\n        shell.IID_IShellLink,",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_special_folder_path",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_special_folder_path(path_name):\n    from win32com.shell import shell, shellcon\n    for maybe in \"\"\"\n        CSIDL_COMMON_STARTMENU CSIDL_STARTMENU CSIDL_COMMON_APPDATA\n        CSIDL_LOCAL_APPDATA CSIDL_APPDATA CSIDL_COMMON_DESKTOPDIRECTORY\n        CSIDL_DESKTOPDIRECTORY CSIDL_COMMON_STARTUP CSIDL_STARTUP\n        CSIDL_COMMON_PROGRAMS CSIDL_PROGRAMS CSIDL_PROGRAM_FILES_COMMON\n        CSIDL_PROGRAM_FILES CSIDL_FONTS\"\"\".split():\n        if maybe == path_name:\n            csidl = getattr(shellcon, maybe)",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api\n    import win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror == 5:  # access denied - user not admin.\n                raise",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.machinery\n    import importlib.util\n    suffix = \"_d\" if \"_d.pyd\" in importlib.machinery.EXTENSION_SUFFIXES else \"\"\n    filename = \"%s%d%d%s.dll\" % (\n        modname,\n        sys.version_info.major,\n        sys.version_info.minor,\n        suffix,",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n            if verbose:\n                print(f\"-> {root_key_name}\\\\{key_name}[{value_name}]={value!r}\")\n        finally:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "UnsetPyKeyVal",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def UnsetPyKeyVal(key_name, value_name, delete_key=False):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.OpenKey(root_key, key_name, 0, winreg.KEY_SET_VALUE)\n        try:\n            winreg.DeleteValue(my_key, value_name)\n            if verbose:\n                print(f\"-> DELETE {root_key_name}\\\\{key_name}[{value_name}]\")\n        finally:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register=True):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags[\"quiet\"] = 1\n    for module, klass_name in com_modules:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterHelpFile",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterHelpFile(register=True, lib_dir=None):\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    if register:\n        # Register the .chm help file.\n        chm_file = os.path.join(lib_dir, \"PyWin32.chm\")\n        if os.path.isfile(chm_file):\n            # This isn't recursive, so if 'Help' doesn't exist, we croak\n            SetPyKeyVal(\"Help\", None, None)\n            SetPyKeyVal(\"Help\\\\Pythonwin Reference\", None, chm_file)",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True, lib_dir=None):\n    \"\"\"Add (or remove) Pythonwin to context menu for python scripts.\n    ??? Should probably also add Edit command for pys files also.\n    Also need to remove these keys on uninstall, but there's no function\n    to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    classes_root = get_root_hkey()",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey() == winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api  # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEM)",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api\n    import win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(f\"Failed to unregister COM objects: {why}\")\n    try:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location: str) -> str:\n    location = os.path.abspath(location)\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError(\n            f'Path \"{location}\" is not an existing directory!'\n        )\n    return location\ndef main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python -m pywin32_postinstall -install\n    * or (shorter but you don't have control over which python environment is used)\n    > pywin32_postinstall -install\n    You need to execute this script, with a '-install' parameter,\n    to ensure the environment is setup correctly to install COM objects, services, etc.",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(\n    os.path.join(\n        tempfile.gettempdir(),  # Send output somewhere so it can be found if necessary...\n        \"pywin32_postinstall.log\",\n    ),\n    \"w\",\n)\nclass Tee:\n    def __init__(self, file):\n        self.f = file",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means\n        # must be HKCU",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()\n    result = subprocess.run(cmd, check=False, cwd=dirname)\n    print(f\"*** Test script '{script}' exited with {result.returncode}\")\n    sys.stdout.flush()\n    if result.returncode:",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, extras):\n    for maybe in possible_locations:\n        if os.path.isfile(maybe):\n            run_test(maybe, extras)\n            break\n    else:\n        raise RuntimeError(\n            \"Failed to locate a test script in one of %s\" % possible_locations\n        )\ndef main():",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "def main():\n    import argparse\n    code_directories = [project_root] + site_packages\n    parser = argparse.ArgumentParser(\n        description=\"A script to trigger tests in all subprojects of PyWin32.\"\n    )\n    parser.add_argument(\n        \"-no-user-interaction\",\n        default=False,\n        action=\"store_true\",",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "project_root",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "project_root = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))\nsite_packages = [site.getusersitepackages()] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [site.getusersitepackages()] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "failures",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "failures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    }
+]
